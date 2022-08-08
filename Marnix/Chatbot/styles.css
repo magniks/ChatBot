@@ -1,0 +1,29 @@
+
+body {
+    background-image: url(ontvoering.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:red;
+}
+
+.mid-div{
+    margin: auto;
+    width: 30%;
+    margin-top: 300px;
+    background-color: #F3F3F3;
+    padding: 20px;
+    border: 2px solid #929292;
+    border-radius: 5px;
+}
+
+.form{
+    text-align: center;
+}
+
+.formlabel{
+    font-weight: bold;
+    color: black;
+}
